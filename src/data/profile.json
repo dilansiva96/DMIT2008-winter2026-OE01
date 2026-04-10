@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Dilan Silver - Freelance front-end Developer",
+    "description": "I'm a developer based in Canada, passionate about user experience and specializing in engaging animations and micro-interactions.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,34 +11,34 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Dilan",
+    "jobTitle": "Student Developer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Edmonton, Canada",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "Dilan",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/dilansiva96/",
+      "https://github.com/dilansiva96"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Dilan Silver",
+    "summary": "a software developer with a strong focus on user experience and web technologies",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/dilansiva96"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/dilansiva96/"
       },
       {
         "ariaLabel": "dribble profile",
@@ -59,7 +59,7 @@
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Dilan, a software developer from Edmonton, Canada.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
@@ -81,11 +81,11 @@
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/dilansiva96/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/dilansiva96"
       },
       {
         "label": "Discord",
