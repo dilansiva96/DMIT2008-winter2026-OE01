@@ -1,8 +1,9 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **Dilan Silver**
+> GitHub Username: **dilansiva96**
 
-![Website Screenshot](./docs/images/preview.png)
+![Website Screenshot](./docs/images/final-screenshot.png)
 
 In this assignment, you will demonstrate your ability to
 
